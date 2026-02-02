@@ -167,13 +167,21 @@ h3 {
 And that's why we ordered an Eiger?
 <span data-marpit-fragment>... not entirely.</span>
 
+---
+### Diamond-II WBS 1.3 - Core Software, Controls and Computing
+- Hardware Infrastructure
+- Software Infrastructure
+- Data to Information
+- Real-time Data
+- Experiment Management
+- Information Management
 
 ---
 
 ![bg](./assets/bricks.png)
 
 ---
-
+We'll be using the D-II software stack for Eiger collections
 - bluesky, ophyd, ophyd-async, dodal
 - sample, experiment definition services
 - UIs, web interfaces
@@ -181,26 +189,29 @@ And that's why we ordered an Eiger?
 
 ---
 
-we happen to have a run off this year for some upgrades of our motion controllers
+# Waffle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ w:150](./assets/software_Waffle.jpg)
 
-so March - June we'll be trying to throw as much of this stuff together as we can
-
----
-
-## New Possibilities / Conclusiojns? 
-- Can we utilise the frame rate? 
-- Can we utilise the 2 threshold energies? 
-- _Will we be able to collect samples faster?_
-- Will the new Diamond-II software stack potentially help with any of these? 
+[ **wof**-uhl ]
+**noun**
+*In user interface design, "waffle" refers to a grid-like menu or app launcher, often used as a navigation element, resembling a waffle's squares.*
 
 ---
+
+## New Possibilities / Conclusions? 
+- March - June we'll be trying to build new scans
+- Benefit to I15-1:
+  - new detector
+  - better metadata management
+- Benefit to Diamond: 
+  - prototype _how_ to put new software on existing beamline
+
 ---
 <style scoped>
   h2,p {color: white !important;}
   </style>
 ![bg](./assets/h2.png)
 
-## acknowledgements / project team
+## Acknowledgements / Project Team
 &nbsp;
 &nbsp;
 i15-1 team 
@@ -211,3 +222,17 @@ project management team
 too many other people to mention! 
 
 ---
+## Quiz time! 
+![bg right:60% h:400](image.png)
+
+---
+![bg](./assets/intranet.png)
+
+---
+
+![bg h:760](./assets/germany.png)
+
+---
+
+![bg h:760](./assets/a_beamline.jpg)
+
