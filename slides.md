@@ -223,7 +223,7 @@ too many other people to mention!
 
 ---
 ## Quiz time! 
-![bg right:60% h:400](image.png)
+![bg right:60% h:400](./assets/image.png)
 
 ---
 ![bg](./assets/intranet.png)
